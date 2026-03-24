@@ -29,6 +29,9 @@
 ### ⚙️ Backend & Database
 `Node.js` `Express.js` `MongoDB`
 
+### 🤖 AI / Data
+`Python` `NumPy` `Pandas`
+
 ### 🧠 Languages & Tools
 `JavaScript` `C++` `Git` `Postman`
 
