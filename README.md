@@ -14,7 +14,7 @@
 
 **MERN Stack Developer & AI Enthusiast** focused on building scalable, real-world products. I develop full-stack applications and integrate AI to solve practical problems, especially in **agriculture and automation**.
 
-Currently working on projects like **AgriSmart** and **AgriBridge**, with a strong interest in innovation, hackathons, and creating impactful technology solutions.
+Currently working on projects like **AgriSmart** , with a strong interest in innovation, hackathons, and creating impactful technology solutions.
 
 ---
 
