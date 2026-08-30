@@ -1,41 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:0B1D3A,100:001220&height=260&section=header&text=Chirag%20Pandey&fontSize=58&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,30:0B1D3A,70:1A0B2E,100:001220&height=280&section=header&text=Chirag%20Pandey&fontSize=62&fontColor=00E5FF&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20AI%2FML%20Enthusiast&descAlignY=58&descAlign=50&descSize=19" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+products...;Integrating+AI+into+real-world+systems...;Backend-focused.+Product-minded.+Always+shipping." alt="Typing SVG" />
+<!-- Typing SVG Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Building+scalable+full-stack+products...;Architecting+robust+backend+systems...;Integrating+production+AI%2FML+models...;Backend-focused.+Product-minded.+Always+shipping.+" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/LeetCode-0B0F19?style=for-the-badge&logo=leetcode&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <a href="https://github.com/Chirag240105">
+    <img src="https://img.shields.io/badge/GitHub-0B0F19?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-0B0F19?style=for-the-badge&logo=leetcode&logoColor=00E5FF" alt="LeetCode" />
+  </a>
+  <a href="mailto:chirag@example.com">
+    <img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Chirag240105&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:6D5EF5&height=2&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6D5EF5,100:FF007A&height=3&width=1000" />
 </p>
 
 <br/>
 
+<!-- Animated Cyber Terminal -->
 <div align="center">
 
-```
-┌── chirag@developer ~
-│
-├─ $ whoami
-│    MERN Stack Developer · Backend Engineer
-│
-├─ $ focus
-│    Backend Systems · AI/ML Integration · System Design
-│
-├─ $ currently_building
-│    AI-powered agricultural platform (AgriSmart)
-│    Secondary marketplace backend (Admin Panel)
-│
-└─ $ status
-     Building. Learning. Shipping. 🚀
+```text
+ ┌─────────────────────────────────────────────────────────────────────────────┐
+ │ 🔴 🟡 🟢  chirag@developer-workstation: ~                                    │
+ ├─────────────────────────────────────────────────────────────────────────────┤
+ │                                                                             │
+ │  $ whoami                                                                   │
+ │  └─► Chirag Pandey | MERN Stack Developer & Backend Engineer               │
+ │                                                                             │
+ │  $ focus                                                                    │
+ │  └─► High-Throughput APIs · System Architecture · Practical AI/ML          │
+ │                                                                             │
+ │  $ currently_building                                                       │
+ │  ├─► AgriSmart: AI-Powered Smart Crop Intelligence Platform                 │
+ │  └─► Admin Panel: Enterprise Marketplace Backend & Queue Workers            │
+ │                                                                             │
+ │  $ status                                                                   │
+ │  └─► 🟢 Architecting, Coding & Shipping Scalable Systems 🚀                │
+ │                                                                             │
+ └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -44,74 +65,98 @@
 
 ## ⚡ About Me
 
-I'm a full-stack developer with a strong **backend focus**, building products that combine solid engineering with practical AI. I care about how systems are architected — authentication flows, database design, API contracts, and the small decisions that decide whether something scales or breaks under load.
+<table border="0">
+<tr>
+<td width="60%" valign="top">
 
-- 🔧 Building end-to-end products with the **MERN stack**, from schema design to deployment
-- 🔐 Comfortable with **REST APIs, JWT/RS256 auth, and role-based access control**
-- 🗄️ Working across **MongoDB, PostgreSQL, Redis, and Prisma**
-- 🤖 Integrating **AI/ML models** into production systems — not just notebooks
-- 🏆 Active in **hackathons and innovation competitions** (SIH and similar)
-- 📚 Continuously learning system design and distributed systems fundamentals
+I'm a full-stack developer with a strong **backend focus**, dedicated to building software that blends solid architectural principles with practical AI applications. I pay meticulous attention to system details — from robust authentication mechanics to database query optimization and event queues.
+
+- 🔧 **End-to-End MERN Stack**: Designing scalable schemas, REST APIs, and responsive UIs
+- 🔐 **Security & Auth First**: RS256 JWT tokens, OTP verification, RBAC, and rate limiting
+- 🗄️ **Multi-Database Expertise**: MongoDB, PostgreSQL, Redis caching, and Prisma ORM
+- 🤖 **Production AI/ML Integration**: Deploying trained models (TensorFlow, PyTorch, XGBoost) directly into web products
+- 🏆 **Hackathons & Competitions**: Active competitor in SIH and national innovation challenges
+- 📚 **Engineering Fundamentals**: Constantly delving deeper into distributed systems & system design
+
+</td>
+<td width="40%" valign="top" align="center">
+
+### 🎯 Key Metrics & Focus
+
+| Focus Area | Skill & Experience Level |
+| :--- | :--- |
+| ⚙️ **Backend Dev** | High Scalability & Clean APIs |
+| 🤖 **AI / ML** | Deep Learning & XGBoost |
+| 🗄️ **Databases** | Relational & NoSQL |
+| 🔐 **Security** | JWT, RS256, OAuth, Zod |
+| ☁️ **DevOps** | Docker, AWS, Microservices |
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5EF5,100:00E5FF&height=2&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5EF5,50:FF007A,100:00E5FF&height=3&width=1000" />
 </p>
 
-## 🧭 Currently Building
+## 🧭 Engineering Focus
 
 <div align="center">
 
-| ⚙️ Backend Systems | 🤖 AI-Powered Apps | 🧱 Full-Stack SaaS | 🔁 Automation |
+| ⚙️ Backend Systems | 🤖 AI-Powered Apps | 🧱 Full-Stack SaaS | 🔁 Automation & Queues |
 |:---:|:---:|:---:|:---:|
-| Scalable APIs & queues | ML integrated into products | Auth, billing, dashboards | Background workers & jobs |
+| High-throughput REST APIs & DB schemas | ML models embedded into web workflows | Role-based Auth, dashboards & payments | Background workers, Redis & BullMQ |
 
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:6D5EF5&height=2&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6D5EF5,100:FF007A&height=3&width=1000" />
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skillset
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,js,py,java&theme=dark" />
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,java,html,css,tailwind,react,nextjs,nodejs,express&perline=12&theme=dark" />
+</p>
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+### 🗄️ Databases & ORM
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&perline=6&theme=dark" />
+</p>
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/REST_APIs-0B0F19?style=flat-square&logoColor=00E5FF&color=0B0F19&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/JWT-0B0F19?style=flat-square&logo=jsonwebtokens&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/bcrypt-0B0F19?style=flat-square&logoColor=00E5FF" />
+### 🤖 AI / Machine Learning & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv&perline=6&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-0B0F19?style=for-the-badge&logo=scikitlearn&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/NumPy-0B0F19?style=for-the-badge&logo=numpy&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Pandas-0B0F19?style=for-the-badge&logo=pandas&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/XGBoost-0B0F19?style=for-the-badge&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Groq_LLaMA_3.3-0B0F19?style=for-the-badge&logo=meta&logoColor=00E5FF" />
+</p>
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,prisma&theme=dark" />
+### 🔐 Security & Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-0B0F19?style=for-the-badge&logoColor=00E5FF&color=0B0F19" />
+  <img src="https://img.shields.io/badge/JWT_RS256-0B0F19?style=for-the-badge&logo=jsonwebtokens&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Bcrypt-0B0F19?style=for-the-badge&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/BullMQ-0B0F19?style=for-the-badge&logo=redis&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Zod_Validation-0B0F19?style=for-the-badge&logo=zod&logoColor=00E5FF" />
+</p>
 
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Scikit--learn-0B0F19?style=flat-square&logo=scikitlearn&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/NumPy-0B0F19?style=flat-square&logo=numpy&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Pandas-0B0F19?style=flat-square&logo=pandas&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/XGBoost-0B0F19?style=flat-square&logoColor=00E5FF" />
-
-**Tools / DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman&theme=dark" />
+### 🛠️ Developer Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,postman&perline=6&theme=dark" />
+</p>
 
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5EF5,100:00E5FF&height=2&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007A,50:6D5EF5,100:00E5FF&height=3&width=1000" />
 </p>
 
 ## 🚀 Featured Projects
@@ -120,23 +165,29 @@ I'm a full-stack developer with a strong **backend focus**, building products th
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
-A full-stack agricultural platform that helps farmers and buyers make smarter decisions through AI-driven crop disease detection, market price forecasting, weather intelligence, and an AI advisory chatbot.
+<div align="center">
+  <h3>🌾 AgriSmart</h3>
+  <p><i>An end-to-end intelligent agricultural engine connecting farmers & buyers with AI-driven diagnostics, yield/price forecasting, and instant advisory.</i></p>
+</div>
 
-**Highlights**
-- 🩺 Plant disease detection across **38+ classes** using a MobileNetV2 transfer-learning model
-- 📈 Crop price prediction with an XGBoost regressor (**R² 0.9975**, ~99.75% accuracy)
-- 💬 AI farming assistant powered by **Groq LLaMA 3.3 70B**
-- 🌦️ Real-time weather intelligence via the Open-Meteo API
-- 🔐 JWT-authenticated farmer & buyer portals with role-based access
-- 🖼️ Cloudinary-backed media handling for crop listings and diagnostics
+#### Key Architecture Highlights
+- 🩺 **Disease Diagnosis**: Real-time leaf disease classification across **38+ plant species** using a fine-tuned MobileNetV2 deep learning model.
+- 📈 **Price Forecasting Engine**: XGBoost regression model achieving **R² 0.9975 (~99.75% accuracy)** for market price prediction.
+- 💬 **AI Agri-Chatbot**: Natural language crop advisory integrated via **Groq LLaMA 3.3 70B**.
+- 🌦️ **Weather Intelligence**: Live meteorological data stream powered by Open-Meteo API.
+- 🔐 **Dual Auth Portals**: Role-based access control with secure JWT tokens for Farmers & Buyers.
 
-**Stack:** React 18 · TypeScript · Vite · Tailwind CSS · Node.js · Express · MongoDB · Flask · TensorFlow · XGBoost
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Repository-0B0F19?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Chirag240105/AgriSmart)
+`React 18` · `TypeScript` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `MongoDB` · `Flask` · `TensorFlow` · `XGBoost`
+
+<br/>
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-0B0F19?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Chirag240105/AgriSmart)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-0B0F19?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://agri-smart-six-eta.vercel.app/)
 
 </div>
@@ -151,25 +202,30 @@ A full-stack agricultural platform that helps farmers and buyers make smarter de
 
 <table>
 <tr>
-<td width="100%">
+<td>
 
-A production-oriented Node.js/Express backend powering a secondary computer marketplace — covering OTP authentication, seller-owned companies, marketplace listings, broadcasts, subscriptions with usage quotas, and admin moderation.
+<div align="center">
+  <h3>💻 Computer Marketplace Engine</h3>
+  <p><i>Enterprise-grade Node.js/Express backend built for transaction safety, strict security, and background processing.</i></p>
+</div>
 
-**Highlights**
-- 🔑 OTP-based authentication with bcrypt-hashed codes, expiry, attempt limits, and IP blocking
-- 🪪 RS256 JWTs with explicit issuer/audience separation across user, registration, and admin tokens
-- 🔁 Rotated, SHA-256-hashed refresh tokens with atomic revoke-and-replace on refresh
-- 🏢 Seller-owned companies with company-user management and role authorization
-- 📊 Quota-aware post & broadcast creation using serializable Prisma transactions
-- 📬 BullMQ-driven background broadcast processing with retries and failure tracking
-- 🧾 Provider-neutral, HMAC-signed payment webhook handling with replay protection
-- 🛡️ Hardened with Helmet, CORS allowlisting, Zod validation, and global rate limiting
+#### Key Architecture Highlights
+- 🔑 **Hardened OTP Auth**: Hashed OTP storage, attempt limits, expiration enforcement, and IP-rate limiting.
+- 🪪 **RS256 JWT Token Lifecycle**: Cryptographic signature separation for User, Registration, and Admin tokens with rotated SHA-256 refresh keys.
+- 🏢 **Multi-Tenant Seller Model**: Company ownership structures, member authorization, and product listing workflows.
+- 📊 **Quota-Aware Transactions**: Atomic post creation and broadcast publishing guarded by Prisma serializable database isolation.
+- 📬 **Asynchronous Queue Pipeline**: BullMQ workers handling broadcasts, notifications, retries, and dead-letter queues.
+- 🛡️ **Defensive API Hardening**: Helmet HTTP headers, CORS origin allowlists, Zod contract validation, and global rate limiting.
 
-**Stack:** Node.js (ESM) · Express 4 · PostgreSQL · Prisma 7 · Redis · BullMQ · Zod · Vitest
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Repository-0B0F19?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Chirag240105/Admin-panel/)
+`Node.js (ESM)` · `Express 4` · `PostgreSQL` · `Prisma 7` · `Redis` · `BullMQ` · `Zod` · `Vitest`
+
+<br/>
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub_Repository-0B0F19?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Chirag240105/Admin-panel/)
 
 </div>
 
@@ -179,49 +235,57 @@ A production-oriented Node.js/Express backend powering a secondary computer mark
 
 <br/>
 
-### 🗂️ Other Projects
-
 <div align="center">
-<i>More projects will be featured here as they ship — this section is designed to grow without a redesign.</i>
+  <i>⚡ More production projects are currently undergoing deployment — stay tuned for updates!</i>
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:6D5EF5&height=2&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6D5EF5,100:FF007A&height=3&width=1000" />
 </p>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chirag240105&show_icons=true&theme=tokyonight&bg_color=0B0F19&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=1F2937&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag240105&layout=compact&theme=tokyonight&bg_color=0B0F19&title_color=00E5FF&text_color=C9D1D9&border_color=1F2937&hide_border=true" />
+<table border="0">
+<tr>
+<td align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Chirag240105&show_icons=true&theme=tokyonight&bg_color=0B0F19&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&border_color=1F2937&hide_border=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag240105&layout=compact&theme=tokyonight&bg_color=0B0F19&title_color=00E5FF&text_color=C9D1D9&border_color=1F2937&hide_border=true" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Chirag240105&theme=tokyonight&background=0B0F19&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280&border=1F2937&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Chirag240105&theme=tokyonight&background=0B0F19&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280&border=1F2937&hide_border=true" alt="Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag240105&theme=react-dark&bg_color=0B0F19&color=00E5FF&line=00E5FF&point=6D5EF5&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag240105&theme=react-dark&bg_color=0B0F19&color=00E5FF&line=00E5FF&point=6D5EF5&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D5EF5,100:00E5FF&height=2&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF007A,50:6D5EF5,100:00E5FF&height=3&width=1000" />
 </p>
 
 ## 🏅 Achievements & Certifications
 
 <div align="center">
 
-| 🎓 AWS Certified AI Practitioner | 🏆 Hackathons | 💡 SIH / Innovation Challenges |
+| Certification / Event | Focus & Skills Demonstrated | Status / Achievement |
 |:---:|:---:|:---:|
-| Cloud & applied AI fundamentals | Built products under time pressure | Solved real-world problem statements |
+| 🎓 **AWS Certified AI Practitioner** | Cloud AI, Foundation Models & Machine Learning | Certified Practitioner |
+| 🏆 **Hackathons & Competitions** | Rapid prototyping under strict time constraints | Featured Contender |
+| 💡 **SIH / Innovation Challenges** | Real-world problem solving & full-stack execution | National Level Innovator |
 
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:6D5EF5&height=2&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6D5EF5,100:FF007A&height=3&width=1000" />
 </p>
 
 <div align="center">
@@ -230,6 +294,8 @@ A production-oriented Node.js/Express backend powering a secondary computer mark
 
 <sub>Full-stack developer with a strong backend focus, building AI-powered products and solving practical problems.</sub>
 
-</div>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001220,50:0B1D3A,100:0F0F1A&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001220,50:0B1D3A,100:0F0F1A&height=140&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
