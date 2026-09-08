@@ -1,319 +1,471 @@
-<div align="center">
+# 👋 Hey, I'm Chirag Pandey
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:161b22,70:24104f,100:00e5ff&height=280&section=header&text=CHIRAG%20PANDEY&fontSize=62&fontColor=00E5FF&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Engineer%20%7C%20AWS%20Certified%20AI%20Practitioner&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+### 🚀 Full-Stack Developer | Backend Engineer | ML Enthusiast | Hackathon Builder
 
-<a href="https://github.com/Chirag240105">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=880&lines=Building+scalable+full-stack+SaaS+products...;Architecting+high-concurrency+backend+systems...;Integrating+LLMs+%26+production+ML+pipelines...;Engineering+zero-trust+security+%26+distributed+auth...;Seeking+Software+Engineering+internships..." alt="Typing SVG" />
-</a>
+I'm a **3rd-year Computer Science & Engineering student at KIET, AKTU**, passionate about building scalable software, intelligent systems, and real-world products.
 
-<br/>
+I enjoy working at the intersection of **Backend Engineering, Full-Stack Development, AI/ML, and Cloud & DevOps**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chirag240105&label=PROFILE%20VIEWS&color=00e5ff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-00E5FF?style=for-the-badge&logoColor=050816&labelColor=050816" />
-  <img src="https://img.shields.io/badge/AWS-CERTIFIED_AI_PRACTITIONER-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+Currently, I'm focused on strengthening my **DSA + backend engineering skills** while building production-oriented projects and participating in hackathons.
 
 <p align="center">
-  <a href="https://github.com/Chirag240105"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-  <a href="https://www.linkedin.com/in/chirag-pandey-b54499328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:pandeychirag651@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Chirag240105">
+    <img src="https://img.shields.io/badge/GitHub-Chirag240105-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/chirag-pandey-b54499328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Chirag%20Pandey-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-</div>
+---
 
-<br/>
+# 🧑‍💻 About Me
 
-## ⚡ `$ whoami`
-
-```text
-┌──────────────────────────────────────────────────────────────────────────┐
-│  DEVELOPER_PROFILE  :  Chirag Pandey                                     │
-│  ------------------------------------------------------------------      │
-│  EDUCATION  :  B.Tech CSE @ KIET Group of Institutions (2024 – 2028)     │
-│  CORE_STACK :  Node.js • Python • C++ • TypeScript • PostgreSQL • React │
-│  DOMAIN     :  MERN Stack • Backend Systems • ML / LLM Integration       │
-│  STATUS     :  🚀 Actively seeking Software Engineering internships      │
-│                                                                          │
-│  CURRENT_DIRECTIVES                                                     │
-│   ├── ⚙️  High-throughput async backends (FastAPI / Express / BullMQ)   │
-│   ├── 🗄️  Advanced database architecture & transaction safety           │
-│   ├── 🤖  Production ML / LLM pipelines (PyTorch / LLaMA)               │
-│   └── 🔐  Zero-trust API security & distributed auth (RS256 / JWT)      │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-```mermaid
-flowchart LR
-    A[💡 IDEA] --> B[📐 DESIGN<br/>Schema & API]
-    B --> C[🔨 BUILD<br/>Modular & Async]
-    C --> D[🧪 TEST<br/>Security & Load]
-    D --> E[📦 DEPLOY<br/>Docker & CI/CD]
-    E --> F[📈 IMPROVE<br/>Iterate & Scale]
-    F -.feedback loop.-> B
-    E --> G([🚀 SHIP])
-
-    style A fill:#0d1117,stroke:#00e5ff,color:#00e5ff
-    style B fill:#0d1117,stroke:#00e5ff,color:#00e5ff
-    style C fill:#0d1117,stroke:#00e5ff,color:#00e5ff
-    style D fill:#0d1117,stroke:#00e5ff,color:#00e5ff
-    style E fill:#0d1117,stroke:#00e5ff,color:#00e5ff
-    style F fill:#0d1117,stroke:#00e5ff,color:#00e5ff
-    style G fill:#161b22,stroke:#00e5ff,color:#00e5ff
-```
-
-> *"Don't just make it work. Make it scalable, secure, observable, and maintainable."*
-
-</div>
+* 🎓 **B.Tech Computer Science & Engineering** — KIET, AKTU
+* 💻 Interested in **Backend Engineering & Full-Stack Development**
+* 🤖 Passionate about **Machine Learning, Deep Learning & AI**
+* 🧠 Currently improving **Advanced DSA in C++**
+* ⚙️ Building applications using **MERN, Node.js, PostgreSQL, Redis & Docker**
+* ☁️ Exploring **AWS, Cloud Architecture & DevOps**
+* 🏆 Active in **Hackathons & Technical Competitions**
+* 🔥 Interested in building **AI-powered real-world systems**
+* 📚 Currently studying **OS, DBMS, OOPs, Advanced DSA, AI & Statistics**
 
 ---
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
-<div align="center">
-
-**💻 Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,java&theme=dark" />
-
-**🎨 Frontend & Styling**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" />
-
-**⚙️ Backend, Microservices & Queues**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,redis&theme=dark" />
-
-**🗄️ Databases & ORM**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma,sqlite&theme=dark" />
-
-**🤖 AI, Deep Learning & Data Science**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,opencv&theme=dark" />
-
-**☁️ Cloud, Infra & Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman,linux&theme=dark" />
-
-</div>
-
-<br/>
-
-### ⚡ Technical Capability Matrix
-
-| Area | Specialized Expertise & Implementations |
-|---|---|
-| ⚙️ **Backend Engineering** | Scalable REST APIs, microservices, asynchronous task-queue processing, system design |
-| 🗄️ **Database Systems** | ACID-compliant transactions, schema design, aggregation frameworks, caching strategies |
-| 🔐 **API & Auth Security** | Zero-trust architecture, RS256 JWT, refresh-token rotation, rate limiting, RBAC |
-| 🤖 **AI / ML & LLMs** | Deep learning pipelines, computer vision, XGBoost regression, LLM function calling |
-| 🔁 **Automation & Queues** | BullMQ workers, distributed caching with Redis, background jobs, retry logic |
-| ☁️ **Cloud & Infrastructure** | Docker containerization, AWS cloud services, serverless deployments (Vercel/Render) |
-
----
-
-## 🚀 Featured Production Projects
-
-### 1️⃣ Admin Panel — Enterprise Computer Marketplace Backend
-
-Production-grade Node.js backend focused on transaction safety, high concurrency, multi-tenancy, and security.
-
-<details>
-<summary><strong>🔍 Architecture Breakdown</strong></summary>
-
-```text
-🔐 Authentication Architecture
-   ├── OTP hashing with attempt limits & expiration enforcement
-   ├── Token security: RS256 JWTs with separate lifecycles
-   └── Rotated SHA-256 refresh keys & IP-based rate limiting
-
-🏢 Multi-Tenancy & Data Integrity
-   ├── Multi-tenant company ownership & permission workflows
-   ├── Transaction safety: Prisma Serializable Isolation Level
-   └── Global validation via Zod schemas
-
-📬 Background Workers & Hardening
-   ├── BullMQ queue workers for audit logging & subscription quotas
-   └── Hardened APIs: Helmet security, CORS allowlists, dead-letter retries
-```
-
-</details>
-
-`Node.js` `Express.js` `PostgreSQL` `Prisma ORM` `Redis` `BullMQ` `Zod`
-
-🔗 [Source Code Repository](#)
-
----
-
-### 2️⃣ AgriSmart — AI-Powered Crop Intelligence Platform
-
-End-to-end agricultural platform connecting farmers and buyers with AI-powered diagnostics and forecasting.
-
-<details>
-<summary><strong>🔍 Architecture Breakdown</strong></summary>
-
-```text
-🩺 Plant Disease Diagnosis
-   ├── Computer vision pipeline using MobileNetV2
-   └── Real-time classification across 38+ plant species
-
-📈 Market Price Forecasting
-   ├── ML time-series prediction via XGBoost
-   └── Accuracy score: R² ≈ 0.9975
-
-💬 AI Advisory & Weather Insights
-   ├── Groq-powered LLaMA 3.3 70B AI assistant
-   └── Open-Meteo API integration for real-time weather alerts
-```
-
-</details>
-
-`React` `TypeScript` `Node.js` `Express` `MongoDB` `Flask` `TensorFlow` `XGBoost`
-
-🔗 [Source Code Repository](#) · [Live Production Demo](#)
-
----
-
-### 3️⃣ EduPlatform — AI Flashcard Generator & Learning SaaS
-
-AI-powered educational platform automating document summarization and interactive review schedules.
-
-<details>
-<summary><strong>🔍 Architecture Breakdown</strong></summary>
-
-```text
-📄 Document Processing Pipeline
-   ├── Automatic document-to-flashcard generation via OpenRouter API
-   └── LLM integration using LLaMA 4 Maverick model
-
-🔑 Authentication & User Tracking
-   ├── Role-based access control (Student vs Teacher roles)
-   ├── Secure password handling with bcrypt and JWT tokens
-   └── Axios interceptors with real-time flashcard progress tracking
-```
-
-</details>
-
-`React` `Node.js` `Express` `MongoDB` `OpenRouter API` `LLaMA` `Tailwind CSS`
-
-🔗 [Source Code Repository](#)
-
----
-
-### 4️⃣ Expense Tracker — Smart Finance App with AI Microservice
-
-Full-stack personal finance application featuring an analytical FastAPI service for predictive budgeting.
-
-<details>
-<summary><strong>🔍 Architecture Breakdown</strong></summary>
-
-```text
-📊 Interactive Finance Management
-   ├── Real-time expense dashboard with visual spending breakdowns
-   ├── Multi-currency selection and structured Excel reporting
-   └── MongoDB aggregation queries for transactional metrics
-
-🤖 AI Prediction Service
-   ├── Independent FastAPI analytics microservice
-   └── Expense prediction models and automated savings recommendations
-```
-
-</details>
-
-`React` `Node.js` `Express` `FastAPI` `MongoDB` `Chart.js` `Python`
-
-🔗 [Source Code Repository](#)
-
----
-
-## 🎓 Education & Credentials
-
-```text
-🎓 B.Tech in Computer Science Engineering (2024 – 2028)
-   └── KIET Group of Institutions | Active Tech Member
-
-🏫 Senior Secondary / Class XII CBSE (2023)
-   └── Ch. Chhabil Das Public School | Score: 80%
-```
-
-### 🏆 Certifications & Leadership
-
-| Category | Accomplishment | Core Focus |
-|---|---|---|
-| 📜 Certification | AWS Certified AI Practitioner | Cloud Infrastructure, Foundation Models & MLOps Pipelines |
-| 🏅 Hackathon | India Innovates 2026 | Certificate of Participation for Rapid Product Prototyping |
-| 👥 Club Leadership | DSDL Technical Club Member | Collaborative Open Source Projects & Technical Workshops |
-
----
-
-## 📊 Live System Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chirag240105&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag240105&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag240105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Chirag240105&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag240105&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff" width="100%" />
-
-</div>
-
----
-
-## 🧩 Architectural Focus & Ecosystem
-
-```mermaid
-flowchart TD
-    ROOT([CHIRAG PANDEY]) --> BE[⚙️ BACKEND]
-    ROOT --> AI[🤖 AI / ML]
-    ROOT --> FS[🌐 FULL STACK]
-
-    BE --> BE1[REST APIs]
-    BE --> BE2[PostgreSQL]
-    BE --> BE3[Redis Queue]
-    BE --> BE4[BullMQ Jobs]
-    BE --> BE5[Zero-Trust Auth]
-
-    AI --> AI1[Deep Learning]
-    AI --> AI2[XGBoost]
-    AI --> AI3[TensorFlow]
-    AI --> AI4[PyTorch]
-    AI --> AI5[LLM APIs]
-
-    FS --> FS1[React]
-    FS --> FS2[Node.js]
-    FS --> FS3[TypeScript]
-    FS --> FS4[Next.js]
-    FS --> FS5[SaaS Dashboards]
-
-    BE & AI & FS --> SHIP([🚀 PRODUCTION SYSTEMS])
-
-    style ROOT fill:#161b22,stroke:#00e5ff,color:#00e5ff
-    style SHIP fill:#161b22,stroke:#00e5ff,color:#00e5ff
-```
-
----
-
-<div align="center">
-
-## 🌐 Let's Connect
+### 💻 Languages
 
 <p>
-  <a href="https://github.com/Chirag240105"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-  <a href="https://www.linkedin.com/in/chirag-pandey-b54499328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pandeychirag651@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
 </p>
 
-**Loop:** `Code` → `Test` → `Optimize` → `Deploy` 🚀
-<br/>
-*Full-Stack Developer • Backend Systems • AI Infrastructure*
+`C++` `Python` `Java` `JavaScript` `TypeScript`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,35:24104f,70:161b22,100:0d1117&height=150&section=footer" width="100%"/>
+### 🌐 Frontend
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
+</p>
+
+`React.js` `Next.js` `Vite` `Tailwind CSS` `Framer Motion` `GSAP` `Lenis`
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" />
+</p>
+
+`Node.js` `Express.js` `REST APIs` `JWT` `bcrypt` `PostgreSQL` `MongoDB` `Prisma` `Redis` `WebSockets` `Socket.IO`
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+**Machine Learning**
+
+`Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `SMOTE` `Random Forest` `Logistic Regression` `Isolation Forest` `XGBoost` `CatBoost` `LightGBM`
+
+**Deep Learning & Computer Vision**
+
+`TensorFlow` `PyTorch` `OpenCV` `YOLO` `Object Detection` `Image Classification`
+
+**Generative AI**
+
+`OpenRouter` `Gemini API` `Groq` `LLaMA` `Mistral` `Nemotron` `LLM Applications` `AI Agents`
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,github,git" />
+</p>
+
+`AWS` `Aurora PostgreSQL` `AWS Secrets Manager` `Docker` `CI/CD` `Vercel` `Render` `Git` `GitHub` `Postman`
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ ResQNet — AI-Powered Search & Rescue
+
+An AI-powered autonomous drone-based search-and-rescue platform designed for disaster scenarios.
+
+### System Architecture
+
+```text
+Drone / Simulator
+       │
+       ▼
+Telemetry Contract
+       │
+       ▼
+Realtime Communication
+       │
+       ▼
+AI Detection
+       │
+       ▼
+Geolocation
+       │
+       ▼
+Incident Detection
+       │
+       ▼
+Deduplication
+       │
+       ▼
+Priority Scoring
+       │
+       ▼
+WebSocket Events
+       │
+       ▼
+Command Dashboard
+       │
+       ▼
+Operator
+       │
+       ▼
+WebRTC
+```
+
+### My Role
+
+**Backend Realtime / Drone Communication Engineer**
+
+* Real-time drone communication
+* WebSocket / Socket.IO infrastructure
+* Telemetry ingestion
+* Drone connection & health tracking
+* Offline / reconnection handling
+* Real-time event fan-out
+* Drone telemetry simulator
+* Telemetry contracts and schemas
+* Concurrent multi-drone simulation
+
+### Tech
+
+`Node.js` `TypeScript` `Socket.IO` `WebSockets` `PostgreSQL` `Redis` `Docker` `AI/ML`
+
+---
+
+# 📊 MarketingOS AI
+
+An AI-powered marketing automation platform designed to automate the workflow of a digital marketing agency.
+
+### Pipeline
+
+```text
+Brand Analysis
+      ↓
+Competitor Analysis
+      ↓
+Campaign Strategy
+      ↓
+AI Copywriting
+      ↓
+Creative Generation
+      ↓
+Publishing
+      ↓
+Analytics
+```
+
+### Features
+
+* AI-powered brand analysis
+* Competitor analysis
+* Campaign strategy generation
+* AI copywriting
+* Social media content generation
+* Creative generation
+* Marketing workflow automation
+* Analytics architecture
+
+### Tech
+
+`Next.js` `Node.js` `PostgreSQL` `Prisma` `Redis` `Docker` `OpenRouter` `LLMs` `AWS Aurora`
+
+---
+
+# 💳 SpendGuard
+
+A payment and spending-control system built around configurable spending policies and intelligent transaction evaluation.
+
+### Key Features
+
+* Transaction policy evaluation
+* Payment provider abstraction
+* State-machine based payment flow
+* Redis-backed infrastructure
+* PostgreSQL
+* Dockerized development
+* AI-assisted decision making
+* Automated testing
+* CI/CD pipeline
+
+### Tech
+
+`TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` `Razorpay` `Vitest` `CI/CD`
+
+---
+
+# 🌱 AgriSmart / AgriBridge
+
+An agriculture-focused platform combining digital services with AI-powered crop disease detection.
+
+### Features
+
+* 🌾 Crop disease detection
+* 🤖 AI-powered agricultural assistance
+* 🔌 Backend APIs
+* 💳 Payment integration
+* 🗄️ Database management
+
+### Tech
+
+`Node.js` `MongoDB` `Razorpay` `Python` `Computer Vision` `AI/ML`
+
+---
+
+# 🛒 EcoFinds
+
+A marketplace-oriented application focused on sustainable product discovery and transactions.
+
+### Tech
+
+`MERN Stack` `REST APIs` `MongoDB` `React` `Node.js`
+
+---
+
+# 📚 Learniverse
+
+An education-focused platform developed as part of my hackathon work.
+
+Focused on building a technology-driven learning experience with scalable backend architecture.
+
+---
+
+# 🧠 Machine Learning
+
+I've worked with the complete ML workflow:
+
+```text
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+EDA
+      ↓
+Feature Engineering
+      ↓
+Scaling
+      ↓
+Handling Imbalanced Data
+      ↓
+Model Training
+      ↓
+Hyperparameter Tuning
+      ↓
+Evaluation
+```
+
+### Fraud Detection
+
+Worked with highly imbalanced transaction data using:
+
+* StandardScaler
+* SMOTE
+* Logistic Regression
+* Random Forest
+* Precision
+* Recall
+* F1 Score
+* Confusion Matrix
+
+---
+
+# 🏆 Hackathons & Competitions
+
+### 🏆 Smart India Hackathon
+
+Building **ResQNet**, an AI-powered autonomous search-and-rescue system combining:
+
+`Drones + Computer Vision + Real-Time Telemetry + Geolocation + AI + WebSockets`
+
+### ⚡ GDG SprintHack
+
+Participated in a rapid-development hackathon focused on building and presenting functional software solutions.
+
+### 🧠 Adobe University Hackathon 2026
+
+Participated in the 2026 edition, working on technology-driven problem solving.
+
+### 🤖 Agentic AI / Cinema Hackathon
+
+Exploring agentic AI systems and LLM-powered application architectures.
+
+---
+
+# 🏗️ Engineering Interests
+
+I'm particularly interested in:
+
+* 🔹 Backend Architecture
+* 🔹 Distributed Systems
+* 🔹 Real-Time Systems
+* 🔹 AI/ML Systems
+* 🔹 Computer Vision
+* 🔹 Cloud Architecture
+* 🔹 API Design
+* 🔹 Database Design
+* 🔹 Caching & Queues
+* 🔹 Authentication & Authorization
+* 🔹 System Design
+* 🔹 DevOps & CI/CD
+
+---
+
+# 📈 Currently Learning
+
+```text
+Advanced DSA
+      +
+Backend Architecture
+      +
+System Design
+      +
+Machine Learning
+      +
+Deep Learning
+      +
+Cloud & DevOps
+      +
+Distributed Systems
+      +
+Generative AI
+```
+
+---
+
+# 🔥 Development Philosophy
+
+> **Build → Break → Debug → Learn → Improve → Ship**
+
+I believe the best way to learn software engineering is by building systems that are slightly beyond my current comfort zone.
+
+I don't just want to learn technologies individually.
+
+I want to understand **how the complete system works** — from the frontend request, API, database, cache, background worker and AI model to deployment and monitoring.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chirag240105&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag240105&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag240105&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,docker,aws,vercel" />
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Become a stronger backend engineer
+* 🧠 Master Advanced DSA
+* ☁️ Improve AWS & Cloud Architecture
+* 🏗️ Learn System Design deeply
+* 🤖 Build production-grade AI applications
+* 🏆 Participate in more hackathons
+* 💼 Secure a strong software engineering internship
+* 🌍 Contribute to open-source projects
+* 📦 Build and deploy more real-world products
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Chirag240105">
+<img src="https://img.shields.io/badge/GitHub-Chirag240105-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/chirag-pandey-b54499328/">
+<img src="https://img.shields.io/badge/LinkedIn-Chirag%20Pandey-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+### Open to collaborating on
+
+```text
+AI × Backend
+AI × Web
+Computer Vision
+Real-Time Systems
+Developer Tools
+SaaS
+Automation
+Open Source
+```
+
+---
+
+# ⚡ Fun Fact
+
+I don't just want to **write code**.
+
+I want to understand **how the entire system works**.
+
+From:
+
+```text
+Frontend
+   ↓
+API
+   ↓
+Backend
+   ↓
+Database
+   ↓
+Cache
+   ↓
+Queue / Worker
+   ↓
+AI Model
+   ↓
+Cloud
+   ↓
+CI/CD
+   ↓
+Production
+```
+
+---
+
+<p align="center">
+
+### 🚀 Keep Building. Keep Learning. Keep Shipping.
+
+**— Chirag Pandey**
+
+</p>
