@@ -1,254 +1,178 @@
-<div align="center">
+# Chirag Pandey
 
-<a href="https://github.com/Chirag240105">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:123B4A,100:0F766E&height=210&section=header&text=Chirag%20Pandey&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=Backend%20Engineering%20%7C%20AI%20Applications%20%7C%20Full-Stack%20Development&descAlignY=59&descSize=15" alt="Chirag Pandey — Backend Engineering, AI Applications, Full-Stack Development"/>
-</a>
+### Software Engineer · Backend Engineering · AI Engineering
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=850&color=2DD4BF&center=true&vCenter=true&width=760&lines=I+build+software+to+solve+real+problems.;Backend+systems+%2B+AI-powered+products.;From+API+design+to+deployment.;Build.+Debug.+Learn.+Ship." alt="Animated developer introduction"/>
-</a>
+I build practical software systems, design APIs, explore system architecture, and integrate AI into applications that solve real-world problems.
 
-<p>
-  <a href="https://github.com/Chirag240105"><img src="https://img.shields.io/badge/GitHub-Chirag240105-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/chirag-pandey-b54499328/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20AI-0F766E?style=flat-square" alt="Backend and AI focus"/>
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-334155?style=flat-square" alt="Always learning"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Chirag240105-181717?style=flat-square&logo=github)](https://github.com/Chirag240105)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chirag-pandey-b54499328/)
+
+---
+
+## Engineering Focus
+
+```text
+SOFTWARE ENGINEERING
+│
+├── Backend Systems
+│   ├── REST APIs · Authentication · Databases
+│   └── Architecture · Reliability · Security
+│
+├── Computer Science
+│   ├── Data Structures & Algorithms
+│   └── Operating Systems · Networking
+│
+└── AI Engineering
+    ├── ML/DL · LLM Integration
+    └── AI-powered Applications
+```
+
+## How I Build
+
+```mermaid
+flowchart LR
+    A[Understand] --> B[Design]
+    B --> C[Implement]
+    C --> D[Test & Debug]
+    D --> E[Deploy]
+    E --> F[Improve]
+    F -. Feedback .-> A
+```
+
+I focus on maintainable code, clear API boundaries, sensible data models, and practical integration between application logic and AI services.
+
+## Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-555555?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases & Data**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM%20Integration-6C5CE7?style=flat-square)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+## Featured Projects
+
+### [ImpactLens-AI](https://github.com/Chirag240105/ImpactLens-AI)
+
+**AI-powered evidence intelligence and reporting**
+
+Transforms field photos and videos into searchable, verifiable sustainability evidence and traceable reports.
+
+- Modular client, API, and shared-configuration structure.
+- AI-powered media analysis and semantic search.
+- Media-integrity checks and traceable reporting.
+- Backend workflows integrating databases, storage, and AI providers.
+
+`React` `Node.js` `Express` `MongoDB` `LLM APIs`
+
+[Repository](https://github.com/Chirag240105/ImpactLens-AI) · [Live Demo](https://impact-lens-ai-one.vercel.app/)
+
+### [AgriSmart](https://github.com/Chirag240105/AgriSmart)
+
+**Full-stack agricultural intelligence platform**
+
+Connects agricultural workflows with machine learning, weather information, market insights, and AI-assisted guidance.
+
+- Separate frontend, backend, and ML service.
+- REST APIs with JWT-based authentication.
+- Crop disease detection and market-price prediction.
+- Integrations for weather information and AI assistance.
+
+`React` `TypeScript` `Express` `MongoDB` `Python` `TensorFlow` `XGBoost`
+
+[Repository](https://github.com/Chirag240105/AgriSmart) · [Live Demo](https://agri-smart-six-eta.vercel.app/)
+
+### [Orbit AI Operating Layer](https://github.com/Chirag240105/orbit-ai-operating-layer)
+
+**An evolving AI-powered personal assistant**
+
+Explores a unified interface for AI-assisted workflows, contextual memory, agent-based capabilities, and interactive experiences.
+
+- Focus on modular feature development.
+- Exploration of contextual AI workflows.
+- Emphasis on usability and extensibility.
+
+`AI Agents` `LLM Integration` `Application Architecture`
+
+[Explore Repository](https://github.com/Chirag240105/orbit-ai-operating-layer)
+
+### [Admin Panel](https://github.com/Chirag240105/Admin-panel)
+
+**Backend-oriented application development**
+
+A separate project in my portfolio for exploring application structure and backend implementation.
+
+[Explore Repository](https://github.com/Chirag240105/Admin-panel)
+
+## Application Architecture
+
+An illustrative architecture for the kinds of systems I explore—not a claim that every project uses these exact components.
+
+```mermaid
+flowchart TB
+    C[Client] --> API[API Layer]
+    API --> M[Authentication & Validation]
+    M --> S[Business Logic]
+    S --> DB[(Database)]
+    S --> W[Background Workflows]
+    W --> AI[AI / External Services]
+    AI --> S
+    S --> API
+    API --> C
+```
+
+## Currently Strengthening
+
+- **Computer Science:** DSA in C++, operating systems, networking, and databases.
+- **Backend Engineering:** API design, authentication, data modelling, and maintainable architecture.
+- **System Design:** Scalability, distributed systems, caching, and reliability.
+- **AI Engineering:** ML fundamentals, deep learning, LLM applications, and agent workflows.
+- **Infrastructure:** Cloud fundamentals, Docker, deployment, and CI/CD.
+
+## GitHub Activity
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Chirag240105&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub contribution and repository statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag240105&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages on GitHub" />
 </p>
 
-</div>
+*Statistics are generated by a third-party service and may occasionally be unavailable.*
 
-whoami
-Hey! I'm Chirag Pandey, a third-year Computer Science and Engineering student at KIET, AKTU. I enjoy building full-stack products, designing backend workflows, and experimenting with AI systems that have a practical purpose.
+## Let's Connect
 
-My main interest is the engineering behind an application: how requests are validated, how APIs communicate, how data is modelled, how background work is handled, how AI services are integrated, and how the whole thing gets deployed reliably.
-- 🔧 Core direction: Backend engineering and full-stack development
-- 🤖 Exploring: Machine learning, computer vision, and generative AI
-- 🧠 Practising: DSA in C++, OOP, DBMS, operating systems, and system design
-- ☁️ Learning: Cloud fundamentals, Docker, deployment, and CI/CD
-- 🏆 Building: Hackathon prototypes and real-world, user-focused applications
-- 🤝 Interested in: Engineering internships, open source, and collaborative projects
-I want to understand not only how to make a feature work, but why the system works—and how to make it reliable, secure, and maintainable.
+Interested in collaborating on backend systems, developer tools, distributed applications, AI-powered software, and open-source projects.
 
-A quick look at my engineering interests
-<div align="center">
+- **GitHub:** [@Chirag240105](https://github.com/Chirag240105)
+- **LinkedIn:** [Chirag Pandey](https://www.linkedin.com/in/chirag-pandey-b54499328/)
 
-Backend systems	AI-powered products	Full-stack development
-APIs, data, auth, caching	LLMs, ML, computer vision	Interfaces, integration, deployment
-Reliability and system design	Useful workflows over AI hype	Usability and complete product flows
+---
 
-
-</div>
-
-Tech stack
-I prefer learning tools through projects and understanding where each one fits, rather than collecting technologies for their own sake.
-Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&perline=8" alt="C++, Python, Java, JavaScript, TypeScript"/>
+<p align="center">
+  <sub>Building software with clear architecture, practical engineering, and continuous learning.</sub>
 </p>
-
-C++ · Python · Java · JavaScript · TypeScript
-Backend and data
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma&perline=8" alt="Node.js, Express, PostgreSQL, MongoDB, Redis, Prisma"/>
-</p>
-
-Node.js · Express.js · REST APIs · JWT · bcrypt · PostgreSQL · MongoDB · Prisma · Redis · WebSockets · Socket.IO
-
-Concepts I'm developing: API contracts and validation, authentication and authorization, database modelling, query efficiency, caching, real-time events, error handling, testing, and background jobs.
-Frontend and interaction
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&perline=8" alt="React, Next.js, Vite, Tailwind CSS, HTML, CSS"/>
-</p>
-
-React · Next.js · Vite · Tailwind CSS · Framer Motion · GSAP · Lenis
-AI, machine learning, and computer vision
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=8" alt="Python, PyTorch, TensorFlow, OpenCV"/>
-</p>
-
-- Data and classical ML: NumPy · pandas · scikit-learn · Matplotlib · Logistic Regression · Random Forest · XGBoost · SMOTE · model evaluation
-- Deep learning and vision: PyTorch · TensorFlow · OpenCV · YOLO · image classification · object detection
-- Generative AI: LLM APIs · OpenRouter · Gemini API · Groq · structured outputs · AI agents · multi-provider workflows
-Cloud, tools, and delivery
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel,vscode&perline=8" alt="AWS, Docker, Git, GitHub, Postman, Vercel, VS Code"/>
-</p>
-
-AWS fundamentals · Docker · Git · GitHub · Postman · Vercel · Render · CI/CD fundamentals
-Featured projects
-These projects represent the kinds of problems I enjoy exploring: useful AI applications, backend workflows, practical tools, and software built under hackathon constraints. Repository details and implementation can evolve, so the links below take you to the source or live demo.
-01 · Orbit — Personal AI workspace
-A personal-assistant project direction focused on making local workflows and interactions feel approachable instead of turning the product into a complicated control panel.
-
-Areas of interest
-- A conversational interface for working with projects and local information
-- Interactive visual experiences, including camera/gesture-based exploration
-- Modular features that can grow without making the application difficult to use
-- Privacy and security as first-class design considerations
-Engineering lens: usable AI interfaces, modular architecture, local-first thinking, and responsible access to user data.
-02 · ImpactLens AI
-An AI-powered application built to explore how a complex real-world workflow can be made easier to understand through a focused product experience.
-- Designed as a user-facing application rather than just a model demo
-- Combines frontend experience with application logic and AI-assisted functionality
-- A useful learning ground for connecting product design with implementation
-Links: Repository · Live demo
-03 · AgriSmart
-An agriculture-oriented web application exploring digital services and AI-assisted crop disease detection.
-- Agriculture-focused user workflows
-- Backend API and data-management work
-- Exploration of computer vision and AI-assisted guidance
-- Product thinking around making technical features useful to end users
-Links: Repository · Live demo
-04 · Admin Panel
-A web development project focused on building an administrative interface and practising the structure of a maintainable frontend application.
-
-Focus: reusable UI, clear information hierarchy, and the foundations of a practical dashboard experience.
-05 · ResQNet — AI-assisted search and rescue
-A hackathon project concept for disaster-response scenarios, bringing together drone telemetry, real-time communication, AI-based detection, geolocation, and an operator-facing dashboard.
-
-Proposed system flow
-Drone / Simulator
-       │
-       ▼
-Telemetry Contract & Validation
-       │
-       ▼
-Real-time Transport (WebSocket / Socket.IO)
-       │
-       ▼
-Detection → Geolocation → Incident Creation
-       │
-       ▼
-Deduplication & Priority Scoring
-       │
-       ▼
-Live Events → Command Dashboard
-Backend engineering areas
-- Consistent telemetry payloads and schemas
-- Drone connection health and reconnection handling
-- Concurrent simulation of multiple drones
-- Real-time event delivery to dashboard clients
-- Clear boundaries between ingestion, detection, and incident workflows
-Technologies explored: Node.js · TypeScript · Socket.IO · WebSockets · PostgreSQL · Redis · Docker · AI/ML
-06 · MarketingOS AI — AI marketing workflow concept
-An AI-assisted marketing automation concept that connects research and content creation into a clearer workflow.
-Brand Context
-     ↓
-Competitor Research
-     ↓
-Campaign Strategy
-     ↓
-Copy & Creative Generation
-     ↓
-Publishing Workflow
-     ↓
-Performance Insights
-Product areas: brand analysis, competitor research, campaign planning, copy generation, creative workflows, and analytics. The goal is to treat AI as part of a repeatable workflow, with clear stages and useful outputs—not simply as a chatbot.
-Project index
-Project	What it explores	Link
-Orbit	Personal AI workspace and interaction design	Source
-ImpactLens AI	AI-powered application	Source · Demo
-AgriSmart	Agriculture-focused web application	Source · Demo
-Admin Panel	Dashboard and frontend development	Source
-More experiments	Other projects and repositories	All repositories
-
-
-How I approach a system
-I like tracing a feature through the complete request lifecycle instead of thinking of the frontend, backend, database, and AI integration as unrelated pieces.
-┌─────────────────────┐
-│     User / UI       │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│ API · Auth · Input  │
-│ Validation          │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│   Business Logic    │
-└─────┬─────┬─────┬───┘
-      │     │     │
-      ▼     ▼     ▼
-   Data   Cache  Queue / Worker
-      │     │     │
-      └─────┴─────┘
-           │
-           ▼
-┌─────────────────────┐
-│ AI / External APIs  │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│ Tests · Logs · CI   │
-└──────────┬──────────┘
-           ▼
-┌─────────────────────┐
-│ Deployment & Ops    │
-└─────────────────────┘
-The principles I'm working toward:
-- Clear boundaries: routes, controllers, services, and data access should have understandable responsibilities.
-- Reliable interfaces: validate input, define response shapes, and handle errors deliberately.
-- Security by design: keep secrets out of source control, use least privilege, and treat external input as untrusted.
-- Data with purpose: choose storage, indexes, and caching based on access patterns.
-- Observable behaviour: make failures easier to diagnose through useful logs and tests.
-- Practical AI integration: validate model output, handle provider failures, and keep the user experience useful when an AI service is unavailable.
-Machine learning workflow
-My ML learning focuses on understanding the complete process—from preparing data to interpreting the model's results.
-Problem Definition
-        ↓
-Data Collection & Inspection
-        ↓
-Cleaning · EDA · Feature Engineering
-        ↓
-Train / Validation / Test Split
-        ↓
-Preprocessing & Baseline Model
-        ↓
-Training & Hyperparameter Tuning
-        ↓
-Evaluation & Error Analysis
-        ↓
-Reproducible Pipeline
-        ↓
-Deployment / Monitoring Concepts
-Topics I've explored include classification, imbalanced datasets, scaling, logistic regression, random forests, and metrics such as precision, recall, F1 score, and confusion matrices. I'm continuing to deepen my understanding of model selection, generalization, and the trade-offs behind evaluation metrics.
-Currently learning
-- [ ] Advanced DSA and consistent problem-solving in C++
-- [ ] Backend architecture, API security, testing, and database performance
-- [ ] System design, caching, queues, and distributed systems fundamentals
-- [ ] AWS and cloud deployment concepts
-- [ ] ML and deep learning fundamentals
-- [ ] LLM application design, structured outputs, and provider fallbacks
-- [ ] Production-minded project documentation and observability
-Hackathons and collaboration
-Hackathons are a way for me to practise turning an open-ended problem into a demonstrable product, collaborating with teammates, and making sensible technical trade-offs under time constraints.
-
-I'm especially interested in ideas involving:
-- AI + backend engineering
-- Computer vision and real-time systems
-- Developer tools and productivity
-- Useful automation and SaaS
-- Accessible, user-centred technology
-GitHub activity
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chirag240105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=2DD4BF&icon_color=2DD4BF" alt="GitHub profile statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag240105&layout=compact&hide_border=true&theme=transparent&title_color=2DD4BF" alt="Most-used programming languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chirag240105&hide_border=true&theme=transparent&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="GitHub contribution streak"/>
-</div>
-
-<sub>Stats and language cards are generated by external services and may occasionally be unavailable or delayed.</sub>
-Let's connect
-I'm open to learning from other developers, collaborating on thoughtful projects, and exploring software engineering internship opportunities.
-<div align="center">
-  <a href="https://github.com/Chirag240105"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="Explore GitHub"/></a>
-  <a href="https://www.linkedin.com/in/chirag-pandey-b54499328/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/></a>
-</div>
-
-<div align="center">
-
-Build thoughtfully. Debug patiently. Ship consistently.
-“Build → Break → Understand → Improve → Ship.”
-</div>
