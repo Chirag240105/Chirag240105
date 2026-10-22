@@ -1,471 +1,124 @@
-# 👋 Hey, I'm Chirag Pandey
-
-### 🚀 Full-Stack Developer | Backend Engineer | ML Enthusiast | Hackathon Builder
-
-I'm a **3rd-year Computer Science & Engineering student at KIET, AKTU**, passionate about building scalable software, intelligent systems, and real-world products.
-
-I enjoy working at the intersection of **Backend Engineering, Full-Stack Development, AI/ML, and Cloud & DevOps**.
-
-Currently, I'm focused on strengthening my **DSA + backend engineering skills** while building production-oriented projects and participating in hackathons.
-
-<p align="center">
-  <a href="https://github.com/Chirag240105">
-    <img src="https://img.shields.io/badge/GitHub-Chirag240105-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/chirag-pandey-b54499328/">
-    <img src="https://img.shields.io/badge/LinkedIn-Chirag%20Pandey-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-# 🧑‍💻 About Me
-
-* 🎓 **B.Tech Computer Science & Engineering** — KIET, AKTU
-* 💻 Interested in **Backend Engineering & Full-Stack Development**
-* 🤖 Passionate about **Machine Learning, Deep Learning & AI**
-* 🧠 Currently improving **Advanced DSA in C++**
-* ⚙️ Building applications using **MERN, Node.js, PostgreSQL, Redis & Docker**
-* ☁️ Exploring **AWS, Cloud Architecture & DevOps**
-* 🏆 Active in **Hackathons & Technical Competitions**
-* 🔥 Interested in building **AI-powered real-world systems**
-* 📚 Currently studying **OS, DBMS, OOPs, Advanced DSA, AI & Statistics**
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
-</p>
-
-`C++` `Python` `Java` `JavaScript` `TypeScript`
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css" />
-</p>
-
-`React.js` `Next.js` `Vite` `Tailwind CSS` `Framer Motion` `GSAP` `Lenis`
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis" />
-</p>
-
-`Node.js` `Express.js` `REST APIs` `JWT` `bcrypt` `PostgreSQL` `MongoDB` `Prisma` `Redis` `WebSockets` `Socket.IO`
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
-
-**Machine Learning**
-
-`Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `SMOTE` `Random Forest` `Logistic Regression` `Isolation Forest` `XGBoost` `CatBoost` `LightGBM`
-
-**Deep Learning & Computer Vision**
-
-`TensorFlow` `PyTorch` `OpenCV` `YOLO` `Object Detection` `Image Classification`
-
-**Generative AI**
-
-`OpenRouter` `Gemini API` `Groq` `LLaMA` `Mistral` `Nemotron` `LLM Applications` `AI Agents`
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,vercel,github,git" />
-</p>
-
-`AWS` `Aurora PostgreSQL` `AWS Secrets Manager` `Docker` `CI/CD` `Vercel` `Render` `Git` `GitHub` `Postman`
-
----
-
-# 🚀 Featured Projects
-
-## 🛡️ ResQNet — AI-Powered Search & Rescue
-
-An AI-powered autonomous drone-based search-and-rescue platform designed for disaster scenarios.
-
-### System Architecture
-
-```text
-Drone / Simulator
-       │
-       ▼
-Telemetry Contract
-       │
-       ▼
-Realtime Communication
-       │
-       ▼
-AI Detection
-       │
-       ▼
-Geolocation
-       │
-       ▼
-Incident Detection
-       │
-       ▼
-Deduplication
-       │
-       ▼
-Priority Scoring
-       │
-       ▼
-WebSocket Events
-       │
-       ▼
-Command Dashboard
-       │
-       ▼
-Operator
-       │
-       ▼
-WebRTC
-```
-
-### My Role
-
-**Backend Realtime / Drone Communication Engineer**
-
-* Real-time drone communication
-* WebSocket / Socket.IO infrastructure
-* Telemetry ingestion
-* Drone connection & health tracking
-* Offline / reconnection handling
-* Real-time event fan-out
-* Drone telemetry simulator
-* Telemetry contracts and schemas
-* Concurrent multi-drone simulation
-
-### Tech
-
-`Node.js` `TypeScript` `Socket.IO` `WebSockets` `PostgreSQL` `Redis` `Docker` `AI/ML`
-
----
-
-# 📊 MarketingOS AI
-
-An AI-powered marketing automation platform designed to automate the workflow of a digital marketing agency.
-
-### Pipeline
-
-```text
-Brand Analysis
-      ↓
-Competitor Analysis
-      ↓
-Campaign Strategy
-      ↓
-AI Copywriting
-      ↓
-Creative Generation
-      ↓
-Publishing
-      ↓
-Analytics
-```
-
-### Features
-
-* AI-powered brand analysis
-* Competitor analysis
-* Campaign strategy generation
-* AI copywriting
-* Social media content generation
-* Creative generation
-* Marketing workflow automation
-* Analytics architecture
-
-### Tech
-
-`Next.js` `Node.js` `PostgreSQL` `Prisma` `Redis` `Docker` `OpenRouter` `LLMs` `AWS Aurora`
-
----
-
-# 💳 SpendGuard
-
-A payment and spending-control system built around configurable spending policies and intelligent transaction evaluation.
-
-### Key Features
-
-* Transaction policy evaluation
-* Payment provider abstraction
-* State-machine based payment flow
-* Redis-backed infrastructure
-* PostgreSQL
-* Dockerized development
-* AI-assisted decision making
-* Automated testing
-* CI/CD pipeline
-
-### Tech
-
-`TypeScript` `Node.js` `PostgreSQL` `Redis` `Docker` `Razorpay` `Vitest` `CI/CD`
-
----
-
-# 🌱 AgriSmart / AgriBridge
-
-An agriculture-focused platform combining digital services with AI-powered crop disease detection.
-
-### Features
-
-* 🌾 Crop disease detection
-* 🤖 AI-powered agricultural assistance
-* 🔌 Backend APIs
-* 💳 Payment integration
-* 🗄️ Database management
-
-### Tech
-
-`Node.js` `MongoDB` `Razorpay` `Python` `Computer Vision` `AI/ML`
-
----
-
-# 🛒 EcoFinds
-
-A marketplace-oriented application focused on sustainable product discovery and transactions.
-
-### Tech
-
-`MERN Stack` `REST APIs` `MongoDB` `React` `Node.js`
-
----
-
-# 📚 Learniverse
-
-An education-focused platform developed as part of my hackathon work.
-
-Focused on building a technology-driven learning experience with scalable backend architecture.
-
----
-
-# 🧠 Machine Learning
-
-I've worked with the complete ML workflow:
-
-```text
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-EDA
-      ↓
-Feature Engineering
-      ↓
-Scaling
-      ↓
-Handling Imbalanced Data
-      ↓
-Model Training
-      ↓
-Hyperparameter Tuning
-      ↓
-Evaluation
-```
-
-### Fraud Detection
-
-Worked with highly imbalanced transaction data using:
-
-* StandardScaler
-* SMOTE
-* Logistic Regression
-* Random Forest
-* Precision
-* Recall
-* F1 Score
-* Confusion Matrix
-
----
-
-# 🏆 Hackathons & Competitions
-
-### 🏆 Smart India Hackathon
-
-Building **ResQNet**, an AI-powered autonomous search-and-rescue system combining:
-
-`Drones + Computer Vision + Real-Time Telemetry + Geolocation + AI + WebSockets`
-
-### ⚡ GDG SprintHack
-
-Participated in a rapid-development hackathon focused on building and presenting functional software solutions.
-
-### 🧠 Adobe University Hackathon 2026
-
-Participated in the 2026 edition, working on technology-driven problem solving.
-
-### 🤖 Agentic AI / Cinema Hackathon
-
-Exploring agentic AI systems and LLM-powered application architectures.
-
----
-
-# 🏗️ Engineering Interests
-
-I'm particularly interested in:
-
-* 🔹 Backend Architecture
-* 🔹 Distributed Systems
-* 🔹 Real-Time Systems
-* 🔹 AI/ML Systems
-* 🔹 Computer Vision
-* 🔹 Cloud Architecture
-* 🔹 API Design
-* 🔹 Database Design
-* 🔹 Caching & Queues
-* 🔹 Authentication & Authorization
-* 🔹 System Design
-* 🔹 DevOps & CI/CD
-
----
-
-# 📈 Currently Learning
-
-```text
-Advanced DSA
-      +
-Backend Architecture
-      +
-System Design
-      +
-Machine Learning
-      +
-Deep Learning
-      +
-Cloud & DevOps
-      +
-Distributed Systems
-      +
-Generative AI
-```
-
----
-
-# 🔥 Development Philosophy
-
-> **Build → Break → Debug → Learn → Improve → Ship**
-
-I believe the best way to learn software engineering is by building systems that are slightly beyond my current comfort zone.
-
-I don't just want to learn technologies individually.
-
-I want to understand **how the complete system works** — from the frontend request, API, database, cache, background worker and AI model to deployment and monitoring.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chirag240105&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag240105&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag240105&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,docker,aws,vercel" />
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Become a stronger backend engineer
-* 🧠 Master Advanced DSA
-* ☁️ Improve AWS & Cloud Architecture
-* 🏗️ Learn System Design deeply
-* 🤖 Build production-grade AI applications
-* 🏆 Participate in more hackathons
-* 💼 Secure a strong software engineering internship
-* 🌍 Contribute to open-source projects
-* 📦 Build and deploy more real-world products
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
+<!--
+  Chirag Pandey | GitHub Profile README
+  Design: minimal, readable, subtle animation.
+  Tip: keep this file in the repository named exactly "Chirag240105".
+-->
+
+<div align="center">
 
 <a href="https://github.com/Chirag240105">
-<img src="https://img.shields.io/badge/GitHub-Chirag240105-181717?style=for-the-badge&logo=github"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:0F766E&height=190&section=header&text=Chirag%20Pandey&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20Engineering%20%C2%B7%20AI%20Systems%20%C2%B7%20Full-Stack&descAlignY=60&descSize=15" alt="Chirag Pandey — Backend Engineering, AI Systems, Full-Stack" />
 </a>
 
-<a href="https://www.linkedin.com/in/chirag-pandey-b54499328/">
-<img src="https://img.shields.io/badge/LinkedIn-Chirag%20Pandey-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=0D9488&center=true&vCenter=true&width=650&lines=Building+useful+software%2C+one+system+at+a+time.;Backend+Engineering+%7C+AI+Applications;Learning+by+building%2C+debugging%2C+and+shipping." alt="Animated introduction" />
 </a>
 
+<p>
+  <a href="https://github.com/Chirag240105"><img src="https://img.shields.io/badge/GitHub-Chirag240105-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/chirag-pandey-b54499328/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%2B%20AI-0D9488?style=flat-square" alt="Current focus: Backend and AI" />
 </p>
 
-### Open to collaborating on
+</div>
 
-```text
-AI × Backend
-AI × Web
-Computer Vision
-Real-Time Systems
-Developer Tools
-SaaS
-Automation
-Open Source
-```
+About
+I'm a third-year Computer Science and Engineering student at KIET, AKTU, interested in building dependable backend systems and practical AI-powered products.
 
----
+I enjoy understanding how a product works end to end—from API design, databases, and real-time communication to model integration, deployment, and monitoring. I learn best by building projects, testing assumptions, and improving them through iteration.
+- Primary focus: Backend engineering, APIs, and system design
+- Also exploring: Machine learning, computer vision, and generative AI
+- Currently strengthening: DSA in C++, backend architecture, cloud fundamentals, and distributed systems
+- I enjoy building: Developer tools, automation, real-time applications, and useful AI products
+- Open to: Engineering internships, hackathons, and collaborative projects
+What I work with
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&perline=10" alt="C++, Python, Java, JavaScript, TypeScript" />
+</p>
 
-# ⚡ Fun Fact
+Area	Tools and concepts
+Backend	Node.js, Express.js, REST APIs, JWT, PostgreSQL, MongoDB, Prisma, Redis
+Frontend	React, Next.js, Vite, Tailwind CSS, Framer Motion
+AI / ML	scikit-learn, NumPy, pandas, TensorFlow, PyTorch, OpenCV, LLM APIs
+Cloud & delivery	AWS fundamentals, Docker, Git, GitHub, Vercel, Render, CI/CD
+Engineering	Data structures, OOP, DBMS, API design, authentication, testing, system design
 
-I don't just want to **write code**.
 
-I want to understand **how the entire system works**.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,react,nextjs,tailwind,python,pytorch,opencv,docker,aws,git,github&perline=8" alt="Technology stack icons" />
+</p>
 
-From:
+Selected projects
+ResQNet — AI-assisted search and rescue
+A disaster-response concept combining drone telemetry, real-time communication, AI detection, and an operator dashboard.
+- Designed around telemetry contracts, connection health, reconnection handling, and multi-drone simulation.
+- Focus areas: real-time backend infrastructure, event delivery, geolocation, and incident prioritization.
+- Stack: Node.js, TypeScript, Socket.IO, WebSockets, PostgreSQL, Redis, Docker.
+MarketingOS AI — Marketing workflow automation
+An AI-powered marketing platform concept for coordinating research, strategy, copywriting, creative generation, and campaign workflows.
+- Brings multiple marketing tasks into a more connected workflow.
+- Explores structured LLM outputs and automation across product features.
+- Stack: Next.js, Node.js, PostgreSQL, Prisma, Redis, LLM APIs.
+ImpactLens AI — AI-powered product
+A project exploring how AI can turn user input into a useful, accessible product experience.
+- Live demo
+- Source code
+AgriSmart — Technology for agriculture
+An agriculture-focused platform combining digital services with AI-assisted crop disease detection.
+- Live demo
+- Source code
+I keep this section selective so the profile highlights projects and engineering decisions rather than becoming a catalogue of every experiment.
 
-```text
-Frontend
-   ↓
-API
-   ↓
-Backend
-   ↓
-Database
-   ↓
-Cache
-   ↓
-Queue / Worker
-   ↓
-AI Model
-   ↓
-Cloud
-   ↓
-CI/CD
-   ↓
-Production
-```
+How I think about systems
+User / Client
+     │
+     ▼
+Frontend or API Client
+     │
+     ▼
+API Layer ─────── Authentication & Validation
+     │
+     ▼
+Business Logic
+     │
+     ├──────────► Database
+     ├──────────► Cache
+     ├──────────► Queue / Background Worker
+     └──────────► AI / External Services
+                         │
+                         ▼
+                Logs, Tests & Monitoring
+                         │
+                         ▼
+                     Deployment
+I want to understand not only how to make a feature work, but also how to make it reliable, secure, observable, and maintainable.
+Current learning path
+- Backend: API design, database modelling, caching, queues, authentication, and testing
+- Computer science: Advanced DSA, operating systems, DBMS, and OOP
+- AI: ML fundamentals, deep learning, computer vision, and LLM application patterns
+- Cloud: AWS, Docker, deployment workflows, and CI/CD
+- Architecture: System design, distributed systems, and real-time applications
+GitHub at a glance
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chirag240105&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0D9488&icon_color=0D9488" alt="GitHub statistics for Chirag240105" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag240105&layout=compact&hide_border=true&theme=transparent&title_color=0D9488" alt="Most-used languages" />
+</div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Chirag240105&hide_border=true&theme=transparent&ring=0D9488&fire=0D9488&currStreakLabel=0D9488" alt="GitHub contribution streak" />
+</div>
 
+Beyond the code
+I enjoy hackathons because they push me to turn an unclear problem into a working, demonstrable solution with a team. I'm especially interested in projects involving AI, backend systems, computer vision, automation, and real-time software.
+
+Build → Test → Debug → Learn → Improve → Ship
+Let's connect
+I'm happy to connect with developers, learn from experienced engineers, and collaborate on thoughtful software projects.
 <p align="center">
-
-### 🚀 Keep Building. Keep Learning. Keep Shipping.
-
-**— Chirag Pandey**
-
+  <a href="https://github.com/Chirag240105"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub" /></a>
+  <a href="https://www.linkedin.com/in/chirag-pandey-b54499328/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
 </p>
+
+<div align="center">
+  <sub>Keep building. Stay curious. Ship things that matter.</sub>
+</div>
