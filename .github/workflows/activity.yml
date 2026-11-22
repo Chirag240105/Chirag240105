@@ -12,9 +12,63 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: actions/checkout@v4
+
+      - name: Build recent activity list
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 8
-          COMMIT_MSG: "chore: update recent activity"
+          GH_USER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - << 'PY'
+          import json, os, re, urllib.request
+
+          user = os.environ["GH_USER"]
+          req = urllib.request.Request(
+              f"https://api.github.com/users/{user}/events/public?per_page=50",
+              headers={"Authorization": f"Bearer {os.environ['GH_TOKEN']}",
+                       "Accept": "application/vnd.github+json"},
+          )
+          events = json.load(urllib.request.urlopen(req))
+
+          lines = []
+          for e in events:
+              repo = e["repo"]["name"]
+              link = f"[{repo}](https://github.com/{repo})"
+              p = e["payload"]
+              t = e["type"]
+              if t == "PushEvent":
+                  n = len(p.get("commits", [])) or p.get("size", 1)
+                  line = f"🔨 Pushed {n} commit(s) to {link}"
+              elif t == "PullRequestEvent":
+                  line = f"🔀 {p['action'].capitalize()} PR [#{p['number']}]({p['pull_request']['html_url']}) in {link}"
+              elif t == "IssuesEvent":
+                  line = f"🐛 {p['action'].capitalize()} issue [#{p['issue']['number']}]({p['issue']['html_url']}) in {link}"
+              elif t == "CreateEvent" and p.get("ref_type") == "repository":
+                  line = f"✨ Created repository {link}"
+              elif t == "WatchEvent":
+                  line = f"⭐ Starred {link}"
+              elif t == "ForkEvent":
+                  line = f"🍴 Forked {link}"
+              else:
+                  continue
+              if line not in lines:
+                  lines.append(line)
+              if len(lines) == 8:
+                  break
+
+          block = "\n".join(f"- {l}" for l in lines) or "- No recent public activity"
+          text = open("README.md", encoding="utf-8").read()
+          new = re.sub(
+              r"(<!--START_SECTION:activity-->)(.*?)(<!--END_SECTION:activity-->)",
+              lambda m: f"{m.group(1)}\n{block}\n{m.group(3)}",
+              text, flags=re.S,
+          )
+          open("README.md", "w", encoding="utf-8").write(new)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "chore: update recent activity" && git push)
