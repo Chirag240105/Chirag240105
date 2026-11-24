@@ -120,6 +120,14 @@ const chirag = {
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+- ⭐ Starred [foss42/apidash](https://github.com/foss42/apidash)
+- ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+- 🔨 Pushed 1 commit(s) to [Chirag240105/ML_OPS](https://github.com/Chirag240105/ML_OPS)
+- 🔨 Pushed 1 commit(s) to [Chirag240105/Chirag240105](https://github.com/Chirag240105/Chirag240105)
+- 🔨 Pushed 1 commit(s) to [Chirag240105/MlOps360](https://github.com/Chirag240105/MlOps360)
+- ⭐ Starred [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith)
+- 🔨 Pushed 1 commit(s) to [Chirag240105/resolveai](https://github.com/Chirag240105/resolveai)
+- 🔨 Pushed 1 commit(s) to [Chirag240105/MarketingOS_AI](https://github.com/Chirag240105/MarketingOS_AI)
 <!--END_SECTION:activity-->
 
 ---
